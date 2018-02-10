@@ -17,6 +17,7 @@ import "./assets/css/reset.css"
 import "./assets/css/style.css"
 import "./assets/less/frontend.less"
 import "./assets/less/backend.less"
+import "./assets/less/added.less"
 import "toastr/build/toastr.css"
 
 // 如果你需要前端错误信息监控, 可以到 https://sentry.io/ 注册个账号, 然后将 PUBLIC_DSN 替换下方的

@@ -29,6 +29,9 @@
         </div>
         <backend-menu v-if="!isLogin"></backend-menu>
     </div>
+    <div class="bottom-msg">
+        <a href="http://www.miitbeian.gov.cn/">浙ICP备18003970号</a>
+    </div>
 </div>
 </template>
 
